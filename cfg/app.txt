@@ -1,0 +1,7 @@
+[API]
+# Your api_id (if 123123123)
+API_ID = 123123123
+# Your api_hash (if abcabcabcabac)
+API_HASH = abcabcabcabac
+# Your phone number with country code (if +1 012 400 9999) (NO SPACE)
+NUMBER = 0124009999
