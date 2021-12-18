@@ -1,8 +1,7 @@
 [API]
-# Your api_id (if 123123123)
-API_ID = 123123123
-# Your api_hash (if abcabcabcabac)
-API_HASH = abcabcabcabac
+# phone number needed for verification of your telegram account. nothing else.
+# wallet address needed to send you the UPF.
+
 # Your phone number with country code (if +1 012 400 9999) (NO SPACE)
 NUMBER = 0124009999
 # Your wallet address to send UPF (if 0x6CC5F09E46797189D18Ea8cfb3B1AaA4661280Ae) (DONT ERASE "")
