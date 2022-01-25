@@ -5,9 +5,11 @@
 ###########################################################################
 
 [CTRL]
-# Change 1 to 0 if you don't want to send with image
-IMAGE = 1 # default = 1
-
+# Change 1 to 0 if you don't want to send with media
+# you can add image or video
+MEDIA = 1 # default = 1
+# Write down name of the media
+MEDIA_NAME = UpFinity.mp4
 
 # Sleep duration between all group messages (in seconds)
 # If you think you are getting short mute / ban, increase this value
