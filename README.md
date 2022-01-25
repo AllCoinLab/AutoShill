@@ -1,19 +1,20 @@
 # 🔥🔥🔥 AutoShill 🔥🔥🔥
 
 Automatic Shilling Program for Telegram
-
+(2022.01.25: Now **FREE** for all people!)
 ![plot](./res/shill.png)
 
 # 🔗 Links
 
-Join this channel to get official updates and announcements.  
-📣 Channel: https://t.me/AutoShillTG  
-Join this group to ask / discuss / request for this tool.  
-👥 Group: https://t.me/AutoShillChat   
-All the informations are in this github  
-📝 Github: https://github.com/AllCoinLab/AutoShill  
+Use AutoShill in this link  
+https://colab.research.google.com/drive/1nDz3w7x-uXQpF7yq31amquKH-jHexu4r?usp=sharing  
+(you can use this in any place including mobile)  
+
 Any questions, promotions, etc  
 📞 Contact: https://t.me/AllCoinLab  
+All the informations are in this github  
+📝 Github: https://github.com/AllCoinLab/AutoShill  
+
 
 # 🖥 DEMO Videos
 Working DEMO (windows Upgraded version)    
@@ -69,7 +70,7 @@ This is made for the shillers to shill more effectively and efficiently.
 If you use too much in too much TG groups with too much accounts,
 it may lead unexpected results by the TG system. (ex. mute / ban)  
 This tool is tested with many situations.  
-(Up to 130+ groups for 24+ hours)  
+(Up to 530+ groups for 100+ hours)  
 But it may differ because of the various slow mode cooldown for each group  
 regard many environment / situation of your account / computer
 
@@ -78,6 +79,5 @@ but this is not responsible for those unexpected results.
 It is up to **YOU** to adjust using time and target group counts to avoid it.
 
 # Other Project
-Check my other projects too :)  
-HoneyProof: Checks honeypot tokens  
-https://github.com/AllCoinLab/honeyproof
+Support my other project!
+UpFinity: https://theupfinity.com
