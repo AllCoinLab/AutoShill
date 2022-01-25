@@ -1,7 +1,7 @@
 # 🔥🔥🔥 AutoShill 🔥🔥🔥
 
-Automatic Shilling Program for Telegram
-(2022.01.25: Now **FREE** for all people!)
+Automatic Shilling Program for Telegram  
+## (2022.01.25: Now **FREE** for all people!)
 ![plot](./res/shill.png)
 
 # 🔗 Links
