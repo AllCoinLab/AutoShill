@@ -5,10 +5,8 @@ Automatic Shilling Program for Telegram
 ![plot](./res/shill.png)
 
 # 🔗 Links
-
-Use AutoShill in this link  
-https://colab.research.google.com/drive/1nDz3w7x-uXQpF7yq31amquKH-jHexu4r?usp=sharing  
-(you can use this in any place including mobile)  
+Full Guide  
+https://upfinity.gitbook.io/upfinity/ecosystem/utility/autoshill/how-to-use-autoshill  
 
 Any questions, promotions, etc  
 📞 Contact: https://t.me/AllCoinLab  
