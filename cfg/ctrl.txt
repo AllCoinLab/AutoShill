@@ -7,16 +7,16 @@
 [CTRL]
 # Change 1 to 0 if you don't want to send with media
 # you can add image or video
-MEDIA = 1 # default = 1
+MEDIA = 1
 # Write down name of the media
-MEDIA_NAME = UpFinity.mp4
+MEDIA_PATH = web3.jpg
 
 # Sleep duration between all group messages (in seconds)
 # If you think you are getting short mute / ban, increase this value
-GLOBAL_SLEEP = 0 # default = 0
+GLOBAL_SLEEP = 0
 # Sleep duration between each group messages (in seconds)
 # If you think you are getting short mute / ban, increase this value
-LOCAL_SLEEP = 1 # default = 1
+LOCAL_SLEEP = 1
 
 
 # DON'T TOUCH HERE!
