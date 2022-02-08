@@ -11,6 +11,8 @@ https://docs.theweb3project.com/ecosystem/utility/autoshill/how-to-use-autoshill
 Any questions, promotions, etc  
 📞 Contact: https://t.me/AllCoinLab   
 
+This is the utility which is part of the ecosystem of [The Web3 Project]  
+https://t.me/TheWeb3Project  
 
 # 🖥 DEMO Videos
 Working DEMO (windows Upgraded version)    
