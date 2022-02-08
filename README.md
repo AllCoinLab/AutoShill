@@ -2,7 +2,7 @@
 
 Automatic Shilling Program for Telegram  
 ## (2022.01.25: Now **FREE** for all people!)
-![plot](./res/shill.png)
+![image](https://user-images.githubusercontent.com/86149297/152932490-0a75d242-767b-45f8-b454-0418e3ebf45a.png)
 
 # 🔗 Links
 Full Guide  
