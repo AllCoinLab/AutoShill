@@ -6,12 +6,10 @@ Automatic Shilling Program for Telegram
 
 # 🔗 Links
 Full Guide  
-https://upfinity.gitbook.io/upfinity/ecosystem/utility/autoshill/how-to-use-autoshill  
+https://docs.theweb3project.com/ecosystem/utility/autoshill/how-to-use-autoshill
 
 Any questions, promotions, etc  
-📞 Contact: https://t.me/AllCoinLab  
-All the informations are in this github  
-📝 Github: https://github.com/AllCoinLab/AutoShill  
+📞 Contact: https://t.me/AllCoinLab   
 
 
 # 🖥 DEMO Videos
