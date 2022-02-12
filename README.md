@@ -2,9 +2,10 @@
 
 Automatic Shilling Program for Telegram  
 ## (2022.01.25: Now **FREE** for all people!)  
-If you like this tool, follow me and click watch / fork / star :)  
+If you like this tool, follow me and click **watch / fork / star** :)  
 ## Full Guide  
 https://docs.theweb3project.com/ecosystem/utility/autoshill/how-to-use-autoshill  
+
 ![image](https://user-images.githubusercontent.com/86149297/152932490-0a75d242-767b-45f8-b454-0418e3ebf45a.png)
 
 # 🔗 Links
